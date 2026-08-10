@@ -1,3 +1,5 @@
+![banner](assets/banner.png)
+
 # Playwright TypeScript Test Automation
 
 A TypeScript Playwright test automation framework for testing UI.
